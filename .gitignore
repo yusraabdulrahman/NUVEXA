@@ -1,0 +1,12 @@
+# Nuvexa Git Ignore
+
+data/
+*.tmp
+*.log
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

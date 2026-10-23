@@ -1,0 +1,16 @@
+{
+  "name": "nuvexa",
+  "version": "1.0.0",
+  "description": "Newborn vaccination and pediatric record management system with SQLite",
+  "main": "server.js",
+  "author": "Yusra Abdulrahman",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
